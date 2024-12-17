@@ -1,3 +1,3 @@
 print("y")
 print("avgo")
-print("sokolata")
+print("sokolata"))))kdk
